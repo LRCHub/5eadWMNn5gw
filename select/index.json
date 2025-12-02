@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SHAKE",
+  "base_artist": "go!go!vanillas",
+  "createdAt": "2025-12-02T09:38:21.959258Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Shake_It_Off_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/02_Shake_It_Off_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Country Girl (Shake It For Me)",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/03_Country_Girl_(Shake_It_For_Me)_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shake The Sugar Tree",
+      "artist": "Pam Tillis",
+      "has_synced": true,
+      "path": "select/04_Shake_The_Sugar_Tree_Pam_Tillis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shake The Sugar Tree",
+      "artist": "Pam Tillis",
+      "has_synced": true,
+      "path": "select/05_Shake_The_Sugar_Tree_Pam_Tillis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Shake",
+      "artist": "Neal McCoy",
+      "has_synced": true,
+      "path": "select/06_The_Shake_Neal_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Shake (LP Version)",
+      "artist": "Neal McCoy",
+      "has_synced": true,
+      "path": "select/07_The_Shake_(LP_Version)_Neal_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shake That Brass",
+      "artist": "Amber J. Liu feat. TAEYEON",
+      "has_synced": true,
+      "path": "select/08_Shake_That_Brass_Amber_J._Liu_feat._TAEYEON.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SHAKE THAT BRASS (feat. 태연 (소녀시대))",
+      "artist": "Amber Liu",
+      "has_synced": true,
+      "path": "select/09_SHAKE_THAT_BRASS_(feat._태연_(소녀시대))_Amber_Liu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shake It",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/10_Shake_It_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shake a Lil' Somethin'",
+      "artist": "The 2 Live Crew",
+      "has_synced": true,
+      "path": "select/11_Shake_a_Lil'_Somethin'_The_2_Live_Crew.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shake It Baby",
+      "artist": "LL Cool J",
+      "has_synced": false,
+      "path": "select/12_Shake_It_Baby_LL_Cool_J.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shake That",
+      "artist": "Eminem feat. Nate Dogg",
+      "has_synced": true,
+      "path": "select/13_Shake_That_Eminem_feat._Nate_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shake That (Ft. Nate Dogg)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/14_Shake_That_(Ft._Nate_Dogg)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shake Ya Ass",
+      "artist": "Mystikal",
+      "has_synced": true,
+      "path": "select/15_Shake_Ya_Ass_Mystikal.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHAKE",
+      "artist": "go!go!vanillas",
+      "has_synced": false,
+      "path": "select/pl_01_SHAKE_go!go!vanillas.txt"
+    }
+  ]
+}
